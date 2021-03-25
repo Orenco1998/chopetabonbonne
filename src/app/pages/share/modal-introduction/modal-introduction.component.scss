@@ -1,0 +1,25 @@
+:host {
+  ion-content {
+    --background: transparent;
+  }
+  .alert {
+    background: var(--ion-color-light);
+    width: 80vw;
+    margin: auto;
+    text-align: center;
+    padding: 20px 30px 30px;
+    p {
+      color: var(--ion-color-primary);
+      font-family: "goldplaymedium";
+      font-size: 25px;
+    }
+    & > div {
+      width: 100%;
+    }
+
+    ion-button {
+      --padding-top: 30px;
+      --padding-bottom: 30px;
+    }
+  }
+}

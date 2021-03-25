@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>207102407610-6hc9o808r6343f8fdqf9o3lf1rl4m7lm.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.207102407610-6hc9o808r6343f8fdqf9o3lf1rl4m7lm</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>207102407610-6c5q4bjqht4tv8r2nceijii1c94rrlk9.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDLljRPrNkGmr_fwxOn-W9cZ5skw3zTB1E</string>
+	<key>GCM_SENDER_ID</key>
+	<string>207102407610</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.chopetabonbonne.appmobile</string>
+	<key>PROJECT_ID</key>
+	<string>ionshop-d7e73</string>
+	<key>STORAGE_BUCKET</key>
+	<string>ionshop-d7e73.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:207102407610:ios:6e3bbcc6daff9ef3a46383</string>
+</dict>
+</plist>

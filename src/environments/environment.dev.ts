@@ -1,0 +1,26 @@
+export const environment = {
+  production: false,
+  serverUrl: "https://admin.tryion.shop/api",
+  appUrl: "https://www.tryion.shop",
+  appImageUrl: "https://www.tryion.shop/assets/imgs/ionshop.png",
+  appId: "JrWy7sUKLL",
+  fbId: "YOUR_FACEBOOK_APP_ID",
+  stripePublicKey: "pk_test_A40nEIAynX1odTMJRcjXUidH00esvTLsj4",
+  androidHeaderColor: "#222428",
+  defaultLang: "fr",
+  googleClientId: "YOUR_GOOGLE_CLIENT_ID",
+  currency: {
+    code: "USD",
+    display: "symbol",
+    digitsInfo: "1.2-2",
+  },
+  firebaseConfig: {
+    apiKey: "AIzaSyC1JcY9h4OSFTqK9rACa_PwRwi1yyzaeVU",
+    authDomain: "ionshop-d7e73.firebaseapp.com",
+    projectId: "ionshop-d7e73",
+    storageBucket: "ionshop-d7e73.appspot.com",
+    messagingSenderId: "207102407610",
+    appId: "1:207102407610:web:f74f612bfa8e8b2fa46383",
+    measurementId: "G-HEBMHK74MC",
+  },
+};
